@@ -1,0 +1,30 @@
+﻿question,ground_truth,risk_level
+Can I take ibuprofen with aspirin?,Avoid combining due to increased risk of bleeding,High
+Can antibiotics treat viral infections?,"No, antibiotics do not work for viral infections",Medium
+What is normal blood pressure?,120/80 mmHg,Low
+Can I stop my BP medicine if I feel fine?,"No, consult a doctor before stopping medication ",High
+Does dehydration cause dizziness?,Yes it can cause dizziness and weakness,Low
+Can I drink alcohol while taking antibiotics?,Avoid alcohol with certain antibiotics,High
+Can I stop my blood pressure medication suddenly?,Do not stop without consulting a doctor,High
+Is it safe to take double dose if I miss one?,Do not double dose unless advised by a doctor,High
+Can I take paracetamol with alcohol?,Avoid combining due to liver risk,High
+Can I mix different painkillers?,Consult a doctor before combining medications,High
+Can I take insulin without eating?,Risk of low blood sugar consult a doctor,High
+Can I stop insulin once sugar is controlled?,Do not stop without medical advice,High
+Can I take expired medicine?,Avoid using expired medications,High
+Can I take antibiotics without prescription?,Use only antibiotics only if prescribed,High
+What is normal body temperature?, Around 98.6 degrees fahrenheit,Low
+What is a fever?,Body temperature above normal range,Low
+What is hypertension?,High blood pressure condition,Low
+What is diabetes?,Condition with high blood sugar levels,Low
+What is a balanced diet?,Diet with proper nutrients in right proportions,Low
+What is BMI?,Body mass index measure of body fat,Low
+Can antibiotics treat viral infections?,No antibiotics do not work on viruses,Medium
+Is cough a symptom of cold?,Yes it can be a symptom,Medium
+Is headache common in stress?,Yes stress can cause headaches,Medium
+Can lack of sleep cause fatigue?,Yes it can lead to tiredness,Medium
+Is fever a symptom of infection?,Yes often indicates infection,Medium
+Can exercise reduce blood pressure?,Yes regular exercise helps reduce BP,Medium
+Is obesity a risk factor for diabetes?,Yes it increases risk,Medium
+Is chest pain serious?,Yes seek medical attention immediately,High
+Can I take medicine on empty stomach?,Depends on medication consult doctor,Medium
